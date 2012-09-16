@@ -1,0 +1,10 @@
+
+Beschreibung: Als Matheanfaenger
+benötige ich einen Taschenrechner welcher die Basisrechenarten beherrscht
+damit ich meine Berechnungen  ueberpruefen kann
+
+Anwendungsfall: Zwei Zahlen zusammenzaehlen
+	
+Gegeben ist ein Taschenrechner
+Wenn ich 20 und 70 eingebe und auf Addieren druecke
+Dann wird die Summe 90 angezeigt

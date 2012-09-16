@@ -1,0 +1,12 @@
+
+Narrative: Calculator
+
+Als Matheanfänger
+benötige ich einen Taschenrechner welcher die Basisrechenarten beherrscht
+damit ich meine Berechnungen überprüfen kann
+
+Scenario: Zwei Zahlen zusammenzählen
+	
+Given Ich habe einen Taschenrechner
+When ich zwei Zahlen 20 und 70 eingebe und auf Addieren drücke
+Then wird die Summe 90 wird angezeigt
